@@ -1,0 +1,28 @@
+Create a storyboard - Develop a key sequence from your scenarios into a visual story
+
+Include a cover sheet with the following: 
+(team name, team members, project title, problem statement)
+
+
+FOCUS:
+Shaping a user journey.
+On the person, the context, their needs, and their interaction with the technology. 
+What do they get from the technology, what do they provide to the technology.
+---
+First,
+Describe the interaction context and interface type your system will support
+Briefly explain how integrating these into your design will help your target users achieve their goals
+
+Second,
+Design a detailed storyboard for your team's design idea. Select a key sequence from your scenarios and develop these further.
+
+Your storyboard should include:
+• scenes in sequential order
+• transitions between screens (how will the user move from one activity to the next)
+• clear indication of what each scene represents (what is the context)
+• a brief (1 or two lines) script that describes what users are saying, feeling or thinking in each storyboard box
+
+
+
+NOTE:
+Annotate the story so that we can understand the user context, their thoughts, feelings and interactions with the technology

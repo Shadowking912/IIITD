@@ -1,0 +1,5 @@
+Conduct a heuristic evaluation of any online streaming platform (Netflix, Amazon Prime, Hotstar,Voot, etc.) using Nielsens 10 guidelines using the attached template. The assignment is an individual assignment. 
+
+Note: 
+1. Please mention the name of the platform under evaluation.
+2. Please upload the file using the following convention: <RollNumber_Name_HeuristicEval.pdf>

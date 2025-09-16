@@ -1,0 +1,19 @@
+1) Individually, 
+  - Sketch a ONE user interface (UI) WORKFLOW for your technology
+  - The sketch MUST demonstrate how a user would complete a task to achieve their goals. Choose a task based upon your storyboard and scenario mapping. 
+  - The UI workflow you choose MUST demonstrate how it provides a solution to your Problem Statement.
+  - Submissions MUST include a home (landing) page
+
+
+2) As a Group,
+  a. Review each INDIVIDUAL lo-fi sketch UI prototype. Discuss the strengths &   weaknesses of each.
+  b. Decide as a group how to combine the best aspects of each UI into a GROUP  lo-fi prototype.
+  c. Create ONE revised GROUP lo-fi UI prototype sketch
+
+Submission File should include:
+1. Individual UI sketches.
+2. Review of strengths and weaknesses
+3. Revised lo-fi UI prototype (ONE submission)
+  
+NOTE:
+Build upon previous work

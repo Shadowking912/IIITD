@@ -1,0 +1,10 @@
+1) Develop two or three personas for your project
+
+2) Use the common persona structure of a photo, name, plus key goals, user quotes, behaviours, and some background information. 
+
+3) Personas are based on real people, so choose friends or relatives that you know well to construct them.
+
+4) Be specific and realistic, discuss a particular person in a particular place, engaged in a particular situation or action, for a particular reason 
+
+::: Objectives :::
+Begin thinking about who your users might be and how they would want to use the product, service, or system

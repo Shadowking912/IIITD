@@ -1,0 +1,10 @@
+GROUP PROJECT
+
+
+Create an Affinity Diagram based upon what you have learned from your Persona-Scenarios, Scenario Map and Interviews. 
+
+Steps to Creating an Affinity Diagram
+. Record all notes or observations on individual cards or sticky notes
+. Look for patterns and notes or observations that are related
+. Create a group for each pattern or theme
+. Give each theme or group a name

@@ -1,0 +1,9 @@
+:: Scenario ::: 
+1) Create a story that describes how a persona would use your product, service or system within a specific context. 
+2) Include a numbered sequence of actions that the user would need to perform to achieve their goals. 
+
+::: Scenario Map :::  
+Create one scenario map of all the steps a user will take to complete their goals using your service. Map out steps for main tasks horizontally from left to right. And vertically, underneath each step, add detail such as comments, questions, ideas and suggestions for features and functionality. 
+
+::: Objectives :::
+Decide what tasks your prototype will support, identify requirements, generate design ideas

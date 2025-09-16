@@ -1,0 +1,9 @@
+GROUP PROJECT
+
+:: Objectives:
+Plan and perform an analysis of the data gathered for your Final Project that is influenced by the goals identified at the outset and the data actually gathered.
+
+:: Data Analysis:
+- Insights & Findings
+1) Conduct a Basic Quantitative Analysis of the data that has been gathered for the Final Project and list your Insights and Findings.
+2) Conduct a Basic Qualitative Analysis of the data that has been gathered for the Final Project and list your Insights and Findings.

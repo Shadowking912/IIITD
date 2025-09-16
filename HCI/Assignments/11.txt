@@ -1,0 +1,13 @@
+Think about the organisation of the system, how to categorise information and how users will interact with it.
+
+For your next assignment each group will submit TWO deliverables.
+(Create an an Information Architecture diagram for your prototype system.)
+First,
+- Develop ONE diagram of your system - describe what content and tasks it will support (see the ‘broad and shallow’ example)
+
+Second, 
+- Develop ONE workflow showing how a user will complete a primary task using your system from ‘A-to-B’ (see the ‘narrow and deep’ example)
+
+
+NOTE,
+- All boxes MUST be labeled to indicate what content would go into that section
